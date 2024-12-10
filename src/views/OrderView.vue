@@ -1,6 +1,6 @@
 <template>
   <div class="list-container">
-    <h3>Connected</h3>
+    <h3>Orders</h3>
     <ul class="user-list">
       <li
         v-for="user in users"
